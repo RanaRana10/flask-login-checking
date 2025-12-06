@@ -1,0 +1,9 @@
+/* styles.css file */
+body {
+    background-color: rgb(110, 197, 226);
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
